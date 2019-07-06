@@ -1,0 +1,14 @@
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/bin/Debug/netcoreapp2.1/backend.deps.json
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.json
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.dev.json
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/bin/Debug/netcoreapp2.1/backend.dll
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/bin/Debug/netcoreapp2.1/backend.pdb
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.csprojAssemblyReference.cache
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.csproj.CoreCompileInputs.cache
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cache
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cs
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfoInputs.cache
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfo.cs
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.dll
+/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/Debug/netcoreapp2.1/backend.pdb
