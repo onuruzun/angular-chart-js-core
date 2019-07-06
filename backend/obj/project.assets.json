@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/backend.csproj",
+      "projectUniqueName": "/Users/onuruzun/Desktop/ses/angular-chart-js-core/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/backend.csproj",
+      "projectPath": "/Users/onuruzun/Desktop/ses/angular-chart-js-core/backend/backend.csproj",
       "packagesPath": "/Users/onuruzun/.nuget/packages/",
-      "outputPath": "/Users/onuruzun/Desktop/open-source/angular-chart-js-core/backend/obj/",
+      "outputPath": "/Users/onuruzun/Desktop/ses/angular-chart-js-core/backend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
