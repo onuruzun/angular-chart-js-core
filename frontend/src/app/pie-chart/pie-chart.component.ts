@@ -21,7 +21,7 @@ export class PieChartComponent implements OnInit {
   public chartData: number[] = [];
   public isData: boolean = false;
 
-  chartColor: any[] = [{ backgroundColor: this.colorHelper.getColors(10, true) }];
+  chartColor: any[] = [{ backgroundColor: this.colorHelper.getColors(10, false) }];
 
   async chartFilled() {
 
