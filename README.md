@@ -1,30 +1,34 @@
+
 # .NET Core, Angular 7 & Chart.js 🤘
 
 ![](https://cdn-images-1.medium.com/max/1600/1*N4melBe0tsA35pUnzczFKA.png)
 
 .NET Core Web API, Angular 7, Chart.js kütüphanesi kullanılarak chart oluşturma.
 
-## Installation
+## Kurulum ve Ön Hazırlık
 
+> **Back End**
+
+```bash
+dotnet restore
+dotnet run
+```
+>**Front End**
 
 ```bash
 npm install
-```
-
-## Usage
-
-```bash
-
 ng serve --open
-
 ```
-## Sample
 
 
-More, see this article : [Angular Chart] 📜 
+ ***
+
+## Örnek
+
+*Makale serisi* : [Angular Chart] 📜 
 
 
-## License
+## Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
