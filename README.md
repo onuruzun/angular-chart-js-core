@@ -7,13 +7,13 @@
 
 ## Kurulum ve Ön Hazırlık
 
-> **Back End**
+> **Backend**
 
 ```bash
 dotnet restore
 dotnet run
 ```
->**Front End**
+>**Frontend**
 
 ```bash
 npm install
